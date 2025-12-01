@@ -1,9 +1,9 @@
-Name: YOUR NAME HERE
+Name: Oliver Faris
 
-| Date    |  Time  |                                     Update |
-|:--------|:------:|-------------------------------------------:|
-| April 5 | 9-10pm | I tried to write abstract, efficient code. |
-|         |        |                                            |
+| Date        |  Time  |                                                                                                                                                                                                                                                                                                                                                                           Update |
+|:------------|:------:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| November 30 | 9-10pm |  I looked at the reading again to refresh my memory. I think I understand most of what I have to do in that I know that you have to just write in the number of zeros you find and then switch to 1s and so on. I explained it pretty bad but I know it. The only thing I am confused about is the reading was saying something about a maximum count and I was unsure about it. |
+|             |        |                                                                                                                                                                                                                                                                                                                                                                                  |
 
 
 To add a new row to the table, click into a cell and then hit shift-enter.
